@@ -1,9 +1,14 @@
-# api documentation for  [p5 (v0.5.8)](https://github.com/processing/p5.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-p5.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-p5) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-p5.svg)](https://travis-ci.org/npmdoc/node-npmdoc-p5)
+# npmdoc-p5
+
+#### api documentation for  [p5 (v0.5.8)](https://github.com/processing/p5.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-p5.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-p5) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-p5.svg)](https://travis-ci.org/npmdoc/node-npmdoc-p5)
+
 #### [![Build Status](https://travis-ci.org/processing/p5.js.svg?branch=master)](https://travis-ci.org/processing/p5.js) [![npm version](https://badge.fury.io/js/p5.svg)](https://www.npmjs.com/package/p5)
 
-[![NPM](https://nodei.co/npm/p5.png?downloads=true)](https://www.npmjs.com/package/p5)
+[![NPM](https://nodei.co/npm/p5.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/p5)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-p5/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-p5_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-p5/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-p5/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-p5/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-p5/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-p5/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-p5/build/screenCapture.npmPackageListing.svg)
 
@@ -78,13 +83,11 @@
     "main": "./lib/p5.js",
     "maintainers": [
         {
-            "name": "lmccart",
-            "email": "laurmccarthy@gmail.com"
+            "name": "lmccart"
         }
     ],
     "name": "p5",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/processing/p5.js.git"
@@ -98,16 +101,6 @@
     "version": "0.5.8"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module p5](#apidoc.module.p5)
-
-
-
-# <a name="apidoc.module.p5"></a>[module p5](#apidoc.module.p5)
 
 
 
